@@ -1,0 +1,2 @@
+language = "crystal"
+run = "shards install --ignore-crystal-version && crystal run -p main.cr"
