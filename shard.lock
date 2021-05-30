@@ -1,0 +1,26 @@
+version: 2.0
+shards:
+  celestine:
+    git: https://github.com/celestinecr/celestine.git
+    version: 0.8.3alpha+git.commit.74fb44e5a2c9ea31d940a10d0dbe8968bf948b6d
+
+  exception_page:
+    git: https://github.com/crystal-loot/exception_page.git
+    version: 0.1.5
+
+  kemal:
+    git: https://github.com/kemalcr/kemal.git
+    version: 1.0.0
+
+  kilt:
+    git: https://github.com/jeromegn/kilt.git
+    version: 0.4.1
+
+  myhtml:
+    git: https://github.com/kostya/myhtml.git
+    version: 1.5.4
+
+  radix:
+    git: https://github.com/luislavena/radix.git
+    version: 0.4.1
+
